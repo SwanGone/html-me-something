@@ -12,3 +12,18 @@ img {
     height: 300px;
     width: 450px;
 }
+
+.divider {
+    overflow: hidden;
+}
+
+.entry {
+    text-align: center;
+    padding: 20px;
+}
+
+.entry p {
+    max-width: 450px;
+    text-align: center;
+    margin: auto;
+}
